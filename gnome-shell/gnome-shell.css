@@ -86,11 +86,11 @@ stage {
     text-shadow: 0 1px black;
     icon-shadow: 0 1px black; }
   .modal-dialog-linked-button:first-child {
-    border-radius: 0px 0px 0px 25px; }
+    border-radius: 25px 25px 25px 25px; }
   .modal-dialog-linked-button:last-child {
-    border-radius: 0px 0px 25px 0px; }
+    border-radius: 25px 25px 25px; }
   .modal-dialog-linked-button:first-child:last-child {
-    border-radius: 0px 0px 25px 25px; }
+    border-radius: 25px 25px 25px; }
 
 /* Entries */
 StEntry {
@@ -697,14 +697,11 @@ StScrollBar {
   background-color: rgba(197, 14, 210, 0.5);
   border: 1px solid #c50ed2; }
 
-.tile-preview-left.on-primary {
-  border-radius: 25px 25px 0 0; }
-
 .tile-preview-right.on-primary {
-  border-radius: 0 25px 0 0; }
+  border-radius: 25px 25px 25px 25px; }
 
 .tile-preview-left.tile-preview-right.on-primary {
-  border-radius: 25px 25px 0 0; }
+  border-radius: 25px 25px 25px 25px; }
 
 /* TOP BAR */
 #panel {
@@ -1330,9 +1327,9 @@ StScrollBar {
   padding: 6px 0;
   border: 1px solid #12151e;
   border-left: 0px;
-  border-radius: 0px 25px 25px 0px; }
+  border-radius: 25px 25px 25px 25px; }
   #dash:rtl {
-    border-radius: 25px 0 0 25px; }
+    border-radius: 25px 25px 25px 25px; }
   #dash .placeholder {
     background-image: url("assets/dash-placeholder.svg");
     background-size: contain;
@@ -1381,9 +1378,9 @@ StScrollBar {
     border: none; }
   .app-view-control:first-child {
     border-right-width: 0;
-    border-radius: 25px 0 0 3px; }
+    border-radius: 25px 25px 25px 25px; }
   .app-view-control:last-child {
-    border-radius: 0 25px 25px 0; }
+    border-radius: 25px 25px 25px 25px; }
 
 .search-provider-icon:active, .search-provider-icon:checked,
 .list-search-result:active,
@@ -1565,9 +1562,9 @@ StScrollBar {
     box-shadow: none;
     border: none; }
     .notification-banner .notification-button:first-child {
-      border-radius: 0 0 0 25px; }
+      border-radius: 25px 25px 25px 25px; }
     .notification-banner .notification-button:last-child {
-      border-radius: 0 0 25px 0; }
+      border-radius:25px 25px 25px 25px; }
     .notification-banner .notification-button:hover, .notification-banner .notification-buttonfocus {
       background-color: #141722;
       color: #c50ed2; }
@@ -1583,7 +1580,7 @@ StScrollBar {
   color: #f7f7f7;
   border: 2px solid #98abb2;
   box-shadow: 0 2px 2px rgba(0, 0, 0, 0.5);
-  border-radius: 1.8em; }
+  border-radius: 2.5em; }
 
 .secondary-icon {
   icon-size: 1.09em; }
@@ -1751,11 +1748,11 @@ StScrollBar {
   padding: 4px; }
 
 .candidate-page-button-previous {
-  border-radius: 25px 0px 0px 25px;
+  border-radius: 25px 25px 25px 25px;
   border-right-width: 0; }
 
 .candidate-page-button-next {
-  border-radius: 0px 25px 25px 0px; }
+  border-radius: 25px 25px 25px 25px; }
 
 .candidate-page-button-icon {
   icon-size: 1em; }
