@@ -45,4 +45,6 @@ You could also use the gnome-tweak-tool
 
 
 #### Known Issues
- - Left tiled preview has no rounded border
+ - Left tiled preview has no roundy property
+
+ - Roundy property not working in the focused combo-item
