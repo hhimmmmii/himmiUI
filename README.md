@@ -3,19 +3,30 @@ A roundUI experience
 
 #### Introduction
 This theme is a modded version of the sweet theme, specifically made to use less resources using tweaks and optimisations.
+
 Made from SweetTheme - https://www.gnome-look.org/p/1253385
 
 #### Recomended Additions
 To make most out of this theme, use 
+
 candyIcons - https://www.gnome-look.org/s/Gnome/p/1305251
+
 LayanCursors - https://www.gnome-look.org/p/1365214/
+
 Wallpaper - https://hdqwalls.com/5k-planet-minimalist-wallpaper
+
 Coverflow Alt-tab
+
 Remove Dropdown Arrow
+
 Rounded Corners
+
 Smart transparent topbar
+
 Transparent Notifications
+
 Transparent OSD
+
 Transparent Window Moving
 
 #### Installation
