@@ -9,25 +9,25 @@ Made from SweetTheme - https://www.gnome-look.org/p/1253385
 #### Recomended Additions
 To make most out of this theme, use 
 
-candyIcons - https://www.gnome-look.org/s/Gnome/p/1305251
+- candyIcons - https://www.gnome-look.org/s/Gnome/p/1305251
 
-LayanCursors - https://www.gnome-look.org/p/1365214/
+- LayanCursors - https://www.gnome-look.org/p/1365214/
 
-Wallpaper - https://hdqwalls.com/5k-planet-minimalist-wallpaper
+- Wallpaper - https://hdqwalls.com/5k-planet-minimalist-wallpaper
 
-Coverflow Alt-tab
+- Coverflow Alt-tab
 
-Remove Dropdown Arrow
+- Remove Dropdown Arrow
 
-Rounded Corners
+- Rounded Corners
 
-Smart transparent topbar
+- Smart transparent topbar
 
-Transparent Notifications
+- Transparent Notifications
 
-Transparent OSD
+- Transparent OSD
 
-Transparent Window Moving
+- Transparent Window Moving
 
 #### Installation
 
