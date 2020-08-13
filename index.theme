@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=himmiUI
+Comment=Round and colorful UI
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=himmiUI
+MetacityTheme=himmiUI
+IconTheme=Boston
+ButtonLayout=close,maximize:
