@@ -30,6 +30,7 @@ To make most out of this theme, use
 - Transparent Window Moving
 
 #### Installation
+Enable user defined themes in extensions.
 
 Extract the zip file to the themes directory i.e. `/usr/share/themes/` or `~/.themes/` (create it if necessary).
 
