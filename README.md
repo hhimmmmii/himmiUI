@@ -41,3 +41,7 @@ To set the theme in Gnome, run the following commands in Terminal,
 ```
 
 You could also use the gnome-tweak-tool
+
+
+#### Known Issues
+ - Left tiled preview has no rounded border
