@@ -34,17 +34,11 @@ Enable user defined themes in extensions.
 
 Extract the zip file to the themes directory i.e. `/usr/share/themes/` or `~/.themes/` (create it if necessary).
 
-To set the theme in Gnome, run the following commands in Terminal,
-
-```
-	$ gsettings set org.gnome.desktop.interface gtk-theme "Sweet"
-	$ gsettings set org.gnome.desktop.wm.preferences theme "Sweet"
-```
-
-You could also use the gnome-tweak-tool
-
+Use the Gnome Tweak Tool and apply the theme.
 
 #### Known Issues
  - Left tiled preview has no roundy property
 
  - Roundy property not working in the focused combo-item
+
+Support has ended
