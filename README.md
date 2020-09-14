@@ -41,4 +41,4 @@ Use the Gnome Tweak Tool and apply the theme.
 
  - Roundy property not working in the focused combo-item
 
-Support has ended
+## Support has ended
