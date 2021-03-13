@@ -1,5 +1,5 @@
 # himmiUI
-A roundUI experience
+A roundUI experience for Gnome 3.38
 
 #### Introduction
 This theme is a modded version of the sweet theme, specifically made to use less resources using tweaks and optimisations.
